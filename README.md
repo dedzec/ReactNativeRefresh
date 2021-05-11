@@ -1,4 +1,4 @@
-# React Native + Redux +  Native Base
+# React Native
 
 ## How to use
 
