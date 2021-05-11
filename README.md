@@ -9,7 +9,7 @@ Install it and run:
 git clone https://github.com/dedzec/ReactNative.git
 
 # enter the project directory
-cd ReactNativeBase
+cd ReactNative
 
 # install dependency
 npm install
