@@ -1,4 +1,4 @@
-# React Native
+# React Native Refresh
 
 ## How to use
 
@@ -6,10 +6,10 @@ Install it and run:
 
 ```sh
 # clone the project
-git clone https://github.com/dedzec/ReactNative.git
+git clone https://github.com/dedzec/ReactNativeRefresh.git
 
 # enter the project directory
-cd ReactNative
+cd ReactNativeRefresh
 
 # install dependency
 npm install
