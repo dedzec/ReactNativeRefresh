@@ -1,4 +1,4 @@
-package com.reactnative;
+package com.reactnativerefresh;
 
 import android.app.Application;
 import android.content.Context;
